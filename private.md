@@ -1,6 +1,6 @@
 # PRIVATE POLICY
 
-Welcome to use AI Generator service
+Welcome to use GraphixAi
 
 Welcome to use the service of   AI Generator, when you use our service, you trust us with your information. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
 
