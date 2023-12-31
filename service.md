@@ -149,4 +149,5 @@ Please be aware that Section 10.2 of these terms contains provisions regarding t
     6.9 Third-Party Beneficiaries. You and the company acknowledge and agree that Apple Inc. and its subsidiaries are third-party beneficiaries of these terms. After accepting these terms, Apple Inc. will have the right (and will be deemed to have accepted that right) to enforce these terms against you as a third-party beneficiary.
 
 Contact Information:
+
 Email Address: Linzy1113@gmail.com
