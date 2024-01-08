@@ -1,5 +1,7 @@
 # PRIVATE POLICY
 
+last modified: Jan. 8th,2024
+
 Welcome to GraphixAi Services
 
 Welcome to the services of GraphixAi. When you use our services, you trust us and provide us with your information. Therefore, we have established a privacy policy that covers how we collect, use, disclose, transmit, and store your information. Please take some time to familiarize yourself with our privacy policy, and if you have any questions, please let us know.
