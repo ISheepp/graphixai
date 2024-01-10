@@ -1,65 +1,298 @@
-# PRIVATE POLICY
+## How Graphix AI Protects Your Images and Other Data
 
-last modified: Jan. 8th,2024
+We aim to help you understand how Graphix AI handles your personal data and the choices you have in managing your data. It is crucial to know how Graphix AI protects your images. You can find all this information in our privacy policy.
 
-Welcome to GraphixAi Services
+The following key points highlight some essential details about the application and our security measures:
 
-Welcome to the services of GraphixAi. When you use our services, you trust us and provide us with your information. Therefore, we have established a privacy policy that covers how we collect, use, disclose, transmit, and store your information. Please take some time to familiarize yourself with our privacy policy, and if you have any questions, please let us know.
+1. Graphix AI is a photo and video editing application. It enhances photos and videos by improving aspects such as image resolution and color. Additionally, it allows you to generate new images using artificial intelligence.
+ 
+2. The photo and video editing, enhancement, and generation technologies of Graphix AI do not engage in facial recognition activities. These technologies do not attempt or permit the identification or verification of individuals in the images.
+ 
+3. You retain control over images uploaded, enhanced, and generated using Graphix AI. We do not sell, trade, or claim ownership of any of your images, whether you are using Graphix AI to edit existing images or generate new ones.
+ 
+4. Unless you explicitly choose to opt in, your images will not be used to train our artificial intelligence technologies.
+ 
+5. Your images will be protected by appropriate security measures, following privacy and data protection laws, as well as industry standards. This includes encryption and cloud storage to enhance security.
+ 
+For details on how we handle your personal data when using Graphix AI, please refer to our privacy policy.
 
-## 1. Information Collection
+## Privacy Policy
 
-A. The data we collect depends on your interaction with us, your choices (including your privacy settings), and the products and features you use. The data we collect may include SDK/API/JS code versions, browsers, internet service providers, IP addresses, platforms, timestamps, application identifiers, application versions, application distribution channels, unique device identifiers, ad identifiers (IDFA), Android ad identifiers, MAC addresses, and International Mobile Equipment Identity (IMEI), device models, terminal manufacturers, terminal device operating system versions, session start/stop times, language, location, time zone, and network status (WiFi, etc.).
+We are Graphix AI ("we"). Through this privacy policy, we will explain how we handle the personal data of users ("users" or "you") of the Graphix AI mobile application ("application") or individuals who interact with us in other ways.
+ 
+We provide this privacy policy in accordance with the laws of the People's Republic of China and the regulations of the App Store.
+ 
+If you have any questions about how we handle your personal data, please refer to the information provided in this privacy policy.
 
-B.In the process of obtaining your consent to use the application, we will ask if you agree to access the local media library and provide explanations for the purpose. After your agreement, some images containing facial information may be used. We promise:
-   - B1: We will never save any images containing facial information or any media information and materials you interact with during the use process.
-   - B2: We will only temporarily transmit these media information materials during your interaction with the application. After each interaction stops, all relevant information will be immediately deleted unless you choose to save it to your local media library. The application and any third party will not temporarily or permanently store this information.
-   - B3: This application provides AI image generation and optimization services, so after your consent, some media materials containing facial information may be used. These media materials may be used in collaboration with third parties to meet your needs, but we and any third party will immediately delete all relevant information after the interaction ends. Therefore, if necessary, you must choose to save it to your local media library.
-   - B4: We ensure that we and any third parties cooperating with us will not store or use any media information, whether or not it contains facial information. All relevant information will be deleted immediately after the interaction stops.
+Last Updated: January 10, 2024
+
+## Contact Information
+
+Graphix AI is the data controller. We are a Chinese technology company headquartered at Room 808, No. 88, Zhonghe North Road, Hangzhou City, Zhejiang Province, China.
+ 
+If you have any questions about how we use your personal data, you can send an email to linzy1113@gmail.com or contact our Data Protection Officer at ligan121@gmail.com.
+
+## Data Types, Data Usage, and Retention - Activities Performed by Default When Using the Application
+
+When you use our application, the following activities are consistently carried out. This means that if you decide to access the application and utilize its features, your personal data will be used for the purposes listed in this section. If you choose not to provide personal data, you may be unable to use the application.
+
+### 1. Service Delivery
+
+We use your personal data to enable you to use the application and provide you with its functionalities. Examples of using the application include editing and enhancing your photos and videos, as well as generating your own AI images. Functionality provided includes showing you information about the application and the editing process, as well as offering suggestions on the best photos to edit.
+
+#### a. Data Categories: Use of the Following Data
+
++ User Identifiers: (e.g., Apple ID) and mobile identifiers (e.g., IP address, device identifier, and custom identifiers generated by us for user identification).
++ Device Information: (e.g., device model, device type, operating system version, device language, device name, and region).
++ Subscription Information: Information related to your subscription.
++ Interaction with the Application: Information about your interactions with the application.
++ Uploaded Images, Videos, Recordings, and Generated Images: (e.g., enhanced photos, AI images) To edit photos and videos or generate AI images, the application needs access to your gallery and camera. You must explicitly allow this access through the request pop-up displayed on your mobile device.
+ 
+Age: (Only when necessary to provide requested features, such as the aging video feature)
+
+#### b. Face Data Handling
+
+Images and videos you upload may contain faces. In such cases, we process certain information about the face, such as the estimated facial feature positions. This information is referred to as "face data." In some jurisdictions outside Europe, face data may be considered as biometric data. However, the technologies implemented in the application do not allow unique identification or authentication of individuals in the images. We have not trained our technology to do so. We only use the application to create requested AI images based on the images you upload.
+
+#### c. Legal Basis
+
+These activities are based on the contracts we enter into with you. When you use the aging video feature, we require your consent as the responsible parent to process personal data related to children in the images you upload to generate videos.
+
+#### d. Retention
+
+We will retain the following content for a maximum of twenty (20) days from the upload or generation date, after which they will be automatically deleted from our servers and the servers of our service providers:
+
+#### e. Data Retention
+
+We will retain the following personal data for a maximum of twenty (20) days:
+ 
++ Images, videos, and recordings you upload.
++ Face data processed to generate AI images.
++ Artificial intelligence images.
+ 
+We will retain other personal data for up to twenty (20) days from your most recent interaction with the application or from the expiration of your subscription, whichever comes later. If you access the application after the subscription expiration, the retention period starts from the latest interaction. After this period, unless any legal obligation requires longer data retention, the data will be deleted or anonymized.
+
+### 2. Customer Support
+
+We use your personal data to send you administrative and technical updates and to handle and respond to your customer support requests, as well as any other communications you send to us.
+
+#### a. Data Categories: Use of the Following Data
+
++ Identifiers (e.g., name and email address).
++ Your communication content.
+
+#### b. Retention
+
+We will retain personal data processed for this purpose for a maximum of twenty (20) days, starting from your most recent interaction with the application or from the expiration of your subscription, whichever comes later. If you access the application after the subscription expiration, the retention period starts from the latest interaction. After the expiration of the retention period, unless any legal obligation requires longer data retention, the data will be deleted or anonymized.
+
+### 3. Service Improvement
+
+Your personal data may be used to improve and develop our products and services. For example, we may process your data for statistical analysis or other research activities to optimize our features and provide you with new functionalities.
+
+#### a. Data Categories: Use of the Following Data
+
++ User identifiers (e.g., Apple ID) and mobile identifiers (e.g., IP address, device identifier, and custom identifiers generated by us for user identification).
++ Device information (e.g., device model, device type, operating system version, device language, device name, and region).
++ Subscription information.
++ Internet and network activity information (e.g., IP address and information about network usage, internet connection, latency, failures, crashes, and error logs).
++ Information about your interactions with the application.
++ Inferences generated by us and other relevant information about your usage and experience with the application (e.g., responses to in-app surveys and feedback from your participation in our interviews).
++ Your gender (if you choose to share this information).
+ 
+For statistical analysis purposes, information and metadata related to your images, videos, and recordings may be collected. In such cases, only anonymous data will be processed.
+
+#### b. Legal Basis
+
+These activities, if performed, are based on our legitimate interest in improving our products. Information about the collection of personal data through analytical tracking technologies can be found in the Technical Tracking section within the application.
+
+#### c. Retention
+
+We will retain personal data processed for this purpose for a maximum of twenty (20) days, starting from your most recent interaction with the application or from the expiration of your subscription, whichever comes later. If you access the application after the subscription expiration, the retention period starts from the latest interaction. After the expiration of the retention period, unless any legal obligation requires longer data retention, the data will be deleted or anonymized.
 
 
-## 2. Use of Personal Information
+### 4. Troubleshooting
+
+We use your personal data to ensure the quality and smooth operation of our application by analyzing, preventing, and correcting faults and errors. This helps prevent illegal use or misuse of the application. Additionally, when you report issues related to AI generation, we use your images to investigate and correct the reported problems.
+
+#### a. Data Categories: Use of the Following Data
 
 
-For example, some of our services may require you to register a social media account or phone number. When you do so, we will ask you to provide personal information such as your email address, phone number, to be stored in your account. If you wish to fully utilize the sharing features we provide, we may also ask you to register a Facebook account or phone number, which may include your Facebook name and photos.
++ User identifiers (e.g., Apple ID) and mobile identifiers (e.g., IP address, device identifier, and custom identifiers generated by us for user identification).
++ Device information (e.g., device model, device type, operating system version, device language, device name, and region).
++ Internet and network activity information (e.g., IP address and information about network usage, internet connection, latency, failures, crashes, and error logs).
++ Inferences generated by us about your use of the application.
++ Images and videos you upload when reporting issues.
 
-Whenever you use our services, we aim to enable you to access your personal information. If the information is incorrect, we will make efforts to provide you with a quick method for updating or deleting that information unless we are required to retain it for legitimate business or legal purposes.
+#### b. Legal Basis
 
-We aim to maintain our services in a way that protects information from accidental or malicious destruction. Therefore, after you delete information from our services, we may not immediately delete residual copies from our active servers, nor will we remove information from our backup systems.
+These activities are based on our legitimate interest in ensuring the quality and smooth operation of our services. Any action using your images to investigate and correct issues related to AI generation requires your consent.
 
-## 3. Sharing Personal Data
+#### c. Retention
 
+The retention of data is as follows:
+ 
++ Images uploaded to report issues will be retained for seven (7) days from the date of upload.
++ Other personal data will be retained for a maximum of twenty (20) days, starting from your most recent interaction with the application or from the expiration of your subscription, whichever comes later. If you access the application after the subscription expiration, the retention period starts from the latest interaction. After the expiration of the retention period, unless any legal obligation requires longer data retention, the data will be deleted or anonymized.
 
-We do not share personal information with companies, organizations, and individuals outside of GraphixAi unless one of the following circumstances applies:
+### 5. Analysis
 
-- With your consent: After obtaining your consent, we will share personal information with companies, organizations, or individuals outside of GraphixAi. For the sharing of any sensitive personal information, we will require your explicit consent.
+We analyze information about you and your usage of the application to create your user profile. We use user profiles to improve our products, develop new features, and provide you with relevant promotions and a personalized in-app experience. For example, we may use your data for the following activities:
 
-- For external processing: We may share personal information with companies, organizations, or individuals outside of GraphixAi if we have a reasonable belief that access, use, preservation, or disclosure of the information is reasonably necessary to:
-   - Comply with any applicable laws, regulations, legal procedures, or enforceable governmental requests.
-   - Enforce applicable Terms of Service, including investigating potential violations.
-   - Detect, prevent, or otherwise address fraud, security, or technical issues.
-   - Protect our, our users', or the public's rights, property, or safety as required or permitted by law.
++ Conducting user experience research activities (such as A/B testing).
++ Customizing promotions and in-app experiences.
++ Conducting in-app surveys.
++ Measuring the effectiveness of our advertising activities and making them more relevant.
++ Customizing information and marketing communications.
 
-We do not publicly disclose non-personal information and do not share it with our partners such as publishers, advertisers, or affiliated websites.
+#### a. Data Categories: Use of the Following Data
 
-We share personal data with vendors or agents who work on our behalf for the purposes described in this privacy policy. For example, companies we hire to provide data analysis services may need to collect and access personal data to provide these functions. In such cases, these companies must comply with our data privacy and security requirements.
++ User identifiers (e.g., Apple ID) and mobile identifiers (e.g., IP address, device identifier, and custom identifiers generated by us for user identification).
++ Information about your interactions with the application.
++ Inferences generated by us about your use of the application.
++ Your responses to surveys and the data contained in those responses.
++ Your gender (if you choose to share this information).
 
-In the event of a merger, acquisition, or asset sale, we will continue to ensure the confidentiality of any personal information and notify affected users before personal information is transferred or becomes subject to different privacy policies.
-
-## 4. Information Security:
-
-We strive to protect both GraphixAi and our users from unauthorized access, unauthorized modification, disclosure, or destruction of the information we hold. Specifically:
-   - We use SSL encryption for many of our services.
-   - We review our information collection, storage, and processing practices, including physical security measures, to guard against unauthorized access to systems.
-   - We limit access to personal information to GraphixAi employees, contractors, and agents who need to know that information to process it for us, and who are subject to strict contractual confidentiality obligations. Failure to fulfill these obligations may result in disciplinary action or termination.
-
-## 5. International Transfer of Personal Data:
-
-Our business may require us to transfer your personal data to countries such as the People's Republic of China or Singapore. We will take appropriate measures to ensure that the recipients of your personal data comply with confidentiality obligations and security requirements.
+#### b. Legal Basis
 
 
+These activities are based on our legitimate interest in improving and customizing our services.
 
-## 6. Changes and Updates to this Policy:
+#### c. Retention
 
-We may occasionally update this policy. When we do so, we will also modify the "Last Updated" date at the bottom of the policy. Your continued use of the services after the effective date of the revised policy indicates that you have read, understood, and agreed to the current version of the policy. If we make changes to this policy in a manner that substantially reduces our use or disclosure of your personal information, we will make reasonable efforts to notify you of the changes and obtain your consent before applying the changes to any personal information we collected from you before the changes took effect. For example, we may send a message to your email address (if we have one on file), send a notification through the services, or generate a pop-up window or similar notification the first time you access the services after such significant changes. Major changes to this policy will be effective earlier of (I) your actual knowledge of such changes when you first use any services or (ii) 30 days after providing you notice of such changes as described in this section. We encourage you to regularly review this policy to understand how we collect, use, and disclose information.
+We will retain personal data processed for this purpose for a maximum of twenty (20) days, starting from your most recent interaction with the application or from the expiration of your subscription, whichever comes later. If you access the application after the subscription expiration, the retention period starts from the latest interaction. After the expiration of the retention period, unless any legal obligation requires longer data retention, the data will be deleted or anonymized.
 
-We are committed to protecting the privacy and security of your personal information, and we empower you to control it all.
+
+## Data Types, Data Usage, and Retention: Activities Performed Only with Your Consent
+
+The following activities are carried out only with your consent. This means you can decide whether to provide your personal data, and you have the right to withdraw your consent at any time. If you choose not to provide data, you can still enjoy the services and features of the application.
+
+### 1. Editing Improvement and AI Training
+
+We use your personal data to enhance Graphix AI and the photo and video editing functionalities in other photo-video editing applications offered by our company to provide better services. For instance, we may use your images and videos to train and validate our photo-video editing algorithms.
+
+#### a. Data Categories: Using the Following Data
+
++ Images, videos, and recordings you upload.
++ Facial data contained in images.
+
+While facial data may be considered biometric data in certain jurisdictions outside Europe, the technologies implemented in the application do not allow or intend to uniquely identify or authenticate individuals in images. We have not trained our technology to perform such actions. We do not collect or use facial data from U.S. users to improve our photo-video editing and generating functionalities, nor do we train our photo-video editing algorithms.
+
+#### b. Legal Basis
+
+This activity requires your consent. Without your explicit consent, we will not perform this activity. You can check and update the permissions you have granted in the privacy settings of the application at any time.
+
+#### c. Retention
+
+We will retain images, videos, audio recordings, facial data processed to generate AI images, and AI images for a maximum of twenty (20) days from the upload or generation date. After this period, unless any legal obligation requires longer data retention, the data will be deleted or anonymized.
+
+### 2. Marketing
+
+We use your personal data for marketing activities and send you information and marketing communications about our application through email and push notifications (such as prompts, promotions, and newsletters).
+
+#### a. Data Categories: Using the Following Data
+
++ User identifiers (e.g., Apple ID) and mobile identifiers (e.g., IP address, device identifier, and custom identifiers generated by us for user identification).
++ Information about your interactions with the application.
++ Inferences generated by us about your use of the application.
+
+Push notifications will be sent to you only when you grant relevant permissions by enabling push notifications in the mobile operating system settings.
+
+#### b. Legal Basis
+
+These activities are based on your consent. Without your explicit consent, we will not perform these activities. You can check and update the permissions you have granted in the privacy settings of the application at any time. The legal basis for sending emails with information about the application or similar products and services ("soft opt-in") is our legitimate interest.
+
+#### c. Retention
+
+We will retain personal data processed for this purpose for a maximum of twenty (20) days, starting from your most recent interaction with the application or from the expiration of your subscription, whichever comes later. If you access the application after the subscription expiration, the retention period starts from the latest interaction. After the expiration of the retention period, unless any legal obligation requires longer data retention, the data will be deleted or anonymized.
+
+## Data Types, Data Usage, and Retention: Activities Performed Only in Special Circumstances
+
+While it is not the default scenario, your personal data may be processed in certain special circumstances unrelated to the product's functionality. These special circumstances are as follows:
+
+### 1. Special Circumstances: To Comply with Legal Obligations
+
+Your personal data may be used to comply with our legal obligations, including requests from public authorities, and to demonstrate that we have fulfilled these obligations, for example, when public institutions make requests.
+
+#### a. Data Categories: 
+
+We may process any type of information according to legal requirements or directives from public authorities.
+
+#### b. Legal Basis: 
+
+When specific legal obligations require this activity, your personal data may be used within the scope necessary for compliance with the legal obligations themselves. When applicable laws afford some discretion in assessing appropriate compliance measures, we will use your personal data based on our legitimate interest to demonstrate our compliance.
+
+#### c. Retention: 
+
+We will retain personal data processed for this purpose for a maximum of thirty (30) days, starting from your most recent interaction with the application or from the expiration of your subscription, whichever comes later. Specific legal obligations may require different retention periods, in which case, those different periods will apply. After the expiration of the retention period, the data will be deleted or anonymized.
+
+### 2.  Special Circumstances: Used for Legal Defense
+
+Your personal data may be used to establish, exercise, or defend our rights and those of our employees, as well as for company transactions or operations. For example, your data may be processed in cases of bankruptcy, mergers, acquisitions, restructuring, sale of assets, or transfers, and any due diligence related to such transactions.
+
+
+#### a. Data Categories: 
+
+We may process any necessary information to ensure the proper execution of these activities.
+
+#### b. Legal Basis: 
+
+This activity is based on our legitimate interest in establishing, exercising, or defending our rights and conducting company transactions or operations.
+
+#### c. Retention: 
+
+We will retain personal data processed for this purpose for a maximum of thirty (30) days, starting from your most recent interaction with the application or from the expiration of your subscription, whichever comes later. Specific legal obligations may require different retention periods, in which case, those different periods will apply. After the expiration of the retention period, the data will be deleted or anonymized.
+
+## Recipients of your data
+
+Your personal data may be transferred to trusted and reliable third parties. This will only happen if there is a legitimate reason for the transfer. Under no circumstances will we sell your data (including your images) to third parties.
+
++ The types of third parties to which your data may be transferred are as follows:
++ Third parties who carry out activities related to our business and operations. Such parties may act on our behalf either as a data processor (such as an IT or storage services provider) or as an autonomous data controller (such as a professional adviser providing advice or otherwise protecting and managing our commercial interests).
++ Advisors and new owners if we enter into a corporate transaction or operation, such as a merger, acquisition, reorganization, asset sale or transfer, and as part of related due diligence.
++ Public, judicial or police authorities, to the extent provided by applicable law.
++ Other parties (such as competent authorities) when necessary, if we have reason to believe that your behavior does not comply with our user agreement or policy or that you have violated the law, or it is necessary to protect our rights, property and interests or the safety of our users , the public or the safety of others.
+In addition, we may share your personal data if necessary to comply with a legal obligation or if you have given us your consent to do so.
+
+## Data transfer outside the People’s Republic of China
+
+Graphix AI is located in the People's Republic of China. From time to time, we may transfer your personal data outside of the People's Republic of China. When we do so, the transfer is always based on appropriate safeguards under applicable privacy law, including standard contractual clauses under the Contract Law of the People's Republic of China, an adequacy decision of the People's Republic of China or binding corporate rules.
+If you would like more information about the protection measures for data transmission, you can contact us at linzy1113@gmail.com.
+ 
+
+## Your Rights
+
+
+You always have control over your personal data. Depending on your location and subject to the limitations and exceptions provided by applicable privacy laws, you have the right to exercise certain rights related to your data at any time free of charge. These include:
+ 
++ The right to access and receive a copy of information about the processing of your personal data (Access).
++ The right to request updates, corrections, or integration (Correction) of your personal data.
++ The right to request deletion (Erasure) of your personal data.
++ The right to request limitation of processing of your personal data (Processing Restriction).
++ The right to receive a portable electronic copy of your personal data (Data Portability).
++ If we rely on our legitimate interests to process your personal data, you have the right to object in whole or in part to such processing (Objection). In particular, you have the right to object to the processing of your personal data for direct marketing purposes, including profiling.
+If we need your consent to process your personal data, you have the right to withdraw your consent (Withdrawal of Consent). If you do so, processing carried out before your withdrawal will remain valid, but we will no longer process your data for this purpose thereafter.
+ 
+If you believe that we have violated applicable privacy laws and have not met your requests, you also have the right to file a complaint with the national data protection authority or any other applicable regulatory authority in your jurisdiction.
+ 
++ To exercise your rights, you can directly submit requests within the application by following these steps:
++ Access the application from your device (you don't need to purchase a subscription to download and access it).
++ Long-press with four fingers on any screen within the application until a menu appears.
++ Click on "Send Privacy Request" and follow the instructions.
+ 
+After completing this process, you can uninstall the application as needed.
+ 
+If you prefer to submit requests via email or have any other questions about Graphix AI's privacy or data protection, you can contact us at linzy1113@gmail.com.
+ 
+Before responding to your requests, we may take some reasonable steps to verify your identity, such as asking for information and ensuring it matches the data available to us. If you submit a request to exercise rights as an authorized agent, we may ask you to provide proof of authorization, or we may contact the subject of the request for confirmation in accordance with applicable privacy laws.
+
+## Children's Data
+
+This application is not intended for use by individuals under the age of 18. We do not intentionally collect personal data from children. If you believe that we have received personal data from someone under the age of 18, please email linzy1113@gmail.com. If we discover that a user is under 18, we will take reasonable steps to delete any processed data and close associated accounts.
+
+## Third-Party Websites and Services
+
+This application does not include links to other websites or services operated by third parties.
+
+## Changes to this Privacy Policy
+
+We may modify, integrate, or update this privacy policy in whole or in part. We will notify users of any modifications, integrations, or updates in accordance with applicable privacy laws. If we make changes, we will notify you by modifying the date at the bottom of this privacy policy, and in some cases, we may also notify you through other means (such as via email, pop-ups, or push notifications).
