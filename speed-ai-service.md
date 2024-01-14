@@ -1,6 +1,6 @@
 # Service Agreement
 
-Last Revised: December 31, 2023
+Last Revised: January 14, 2024
 
 SpeedAi Mobile Application may be subject to additional guidelines, terms, or rules that accompany certain features, and these guidelines, terms, or rules will be published alongside such features on SpeedAi. All such additional terms, guides, and rules are incorporated into these terms by reference. These terms apply to all users and other individuals ("Users," "you," or, if applicable, "your users") accessing, downloading, installing, registering, or using SpeedAi, whether used by you or any users on your account (collectively, "your use" and "your users").
 
